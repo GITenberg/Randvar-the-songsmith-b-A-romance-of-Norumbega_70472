@@ -1,5 +1,8 @@
 _repo: Randvar-the-songsmith-b-A-romance-of-Norumbega_70472
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70472-h/images/cover.jpg
 creator:
   author:
     agent_name: Liljencrantz, Ottilie A. (Ottilia Adelina)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1178
     wikipedia: https://en.wikipedia.org/wiki/Ottilie_A._Liljencrantz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70472#Randvar-the-songsmith-b-A-romance-of-Norumbega
 gutenberg_issued: '2023-04-05'
 identifiers:
   gutenberg: '70472'
